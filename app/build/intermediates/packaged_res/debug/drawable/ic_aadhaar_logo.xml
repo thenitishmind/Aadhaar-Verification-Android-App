@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    
+    <!-- Aadhaar Logo Representation -->
+    <group>
+        <!-- Outer Circle -->
+        <path
+            android:fillColor="@color/primary"
+            android:pathData="M100,10
+                A90,90 0 1,1 99.9,10
+                Z"/>
+        
+        <!-- Inner Circle (white) -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M100,30
+                A70,70 0 1,1 99.9,30
+                Z"/>
+        
+        <!-- Fingerprint Lines -->
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="4"
+            android:fillColor="#00000000"
+            android:pathData="M60,100
+                Q100,60 140,100"/>
+        
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="4"
+            android:fillColor="#00000000"
+            android:pathData="M65,85
+                Q100,50 135,85"/>
+        
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="4"
+            android:fillColor="#00000000"
+            android:pathData="M70,115
+                Q100,80 130,115"/>
+        
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="4"
+            android:fillColor="#00000000"
+            android:pathData="M75,130
+                Q100,100 125,130"/>
+        
+        <path
+            android:strokeColor="@color/primary"
+            android:strokeWidth="4"
+            android:fillColor="#00000000"
+            android:pathData="M80,145
+                Q100,120 120,145"/>
+    </group>
+</vector>

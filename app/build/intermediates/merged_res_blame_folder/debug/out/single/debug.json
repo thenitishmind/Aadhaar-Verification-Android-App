@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_edit_text_background.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/edit_text_background.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_ic_info.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_ic_aadhaar_logo.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/ic_aadhaar_logo.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/layout_activity_aadhaar_details.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/layout/activity_aadhaar_details.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_ic_back.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_button_primary.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/layout_activity_otp_verification.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/layout/activity_otp_verification.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/drawable_ic_person_placeholder.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/drawable/ic_person_placeholder.xml"
+    },
+    {
+        "merged": "com.karza.aadhaarverify.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "com.karza.aadhaarverify.app-main-34:/xml/data_extraction_rules.xml"
+    }
+]
